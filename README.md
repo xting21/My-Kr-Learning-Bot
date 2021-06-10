@@ -12,6 +12,10 @@ Sometime back, someone introduced me to telegram bot which I could consider as a
 2. After which, user has the choice of random 10, 20, 50 or all the words in that json to be tested.
 3. Then you can start your quiz!
 
+**Sample image of the quiz**
+
+<img src="https://user-images.githubusercontent.com/26425194/121528378-fce2e780-ca2d-11eb-97a3-cadb8800db63.PNG" width="250">
+
 
 Currently there's no scoring system, as I dont have the need for it. But it's in my TO-DO listing, though not priority yet.
 Data can be customise to own need.
