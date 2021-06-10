@@ -25,6 +25,7 @@ Currently there's no scoring system, as I dont have the need for it. But it's in
 ## To-Do
 - [ ] Add audio to each word for better pronuciation learning
 - [ ] Selecting words base on category
+- [ ] Move the database on mongodb
 - [ ] Auto-create question to test sentencing (but first need to have words sort nicely at Noun, Adj, Verb etc) --> meant for learning markers etc etc.
 - [ ] Scoring system, where weaker words will be shown more.
 
