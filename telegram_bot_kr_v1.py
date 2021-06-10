@@ -131,7 +131,7 @@ def main():
     updater.start_webhook(listen="0.0.0.0",
                           port=int(PORT),
                           url_path=TOKEN)
-    updater.bot.setWebhook('https://arcane-cove-33393.herokuapp.com/' + TOKEN)
+    updater.bot.setWebhook('<Webhook_url>' + TOKEN)
     updater.idle()
 
 
