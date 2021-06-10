@@ -14,7 +14,7 @@ Sometime back, someone introduced me to telegram bot which I could consider as a
 
 
 Currently there's no scoring system, as I dont have the need for it. But it's in my TO-DO listing, though not priority yet.
-
+Data can be customise to own need.
 
 ## What you need
 1. First you need a data folder to store all the words. (I'm at the level of eng-kr so i think the code will change as time goes by.) They are in json format. Created multiple jsons as I work on them weekly, and only merge them after completing a term.
