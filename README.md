@@ -20,13 +20,14 @@ Sometime back, someone introduced me to telegram bot which I could consider as a
 Currently there's no scoring system, as I dont have the need for it. But it's in my TO-DO listing, though not priority yet.
 Data can be customise to own need.
 
-## What you need
+## What you need (Migrating in-progress)
 1. First you need a data folder to store all the words. (I'm at the level of eng-kr so i think the code will change as time goes by.) They are in json format. Created multiple jsons as I work on them weekly, and only merge them after completing a term.
 2. token.txt contains the token string for telegram bot.
 3. I hosted this on heroku, it wil only run the script when prompted. Need to input the path to the webhook.
 
 
 ## To-Do
+- [ ] Migrating the project to Azure (In-progress)
 - [ ] Add audio to each word for better pronuciation learning
 - [ ] Selecting words base on category
 - [ ] Move the database on mongodb
