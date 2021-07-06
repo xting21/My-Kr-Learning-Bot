@@ -25,6 +25,8 @@ Data can be customise to own need.
 2. token.txt contains the token string for telegram bot.
 3. I hosted this on heroku, it wil only run the script when prompted. Need to input the path to the webhook.
 
+## Steps
+Go to [Wiki](https://github.com/xting21/My-Kr-Learning-Bot/wiki)
 
 ## To-Do
 - [ ] Migrating the project to Azure (In-progress)
